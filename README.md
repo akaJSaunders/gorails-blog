@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Instructions
 
-Things you may want to cover:
+Run `bundle install` and then `rails s`
 
-* Ruby version
+Go to link `http://127.0.0.1:3000/blog_posts`
 
-* System dependencies
 
-* Configuration
+## To Do:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Allow for image upload with active storage
+https://edgeguides.rubyonrails.org/active_storage_overview.html
